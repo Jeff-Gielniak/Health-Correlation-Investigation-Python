@@ -28,3 +28,15 @@ Answer: Based on BMI, the five healthiest states are (from 5-1) Massachusetts, V
 5. Is there a correlation between depressive disorders and BMI? (high or low)
 Answer: We filtered the data to remove rows of incomplete data and columns of irrelevant data.  We then categorized the BMI values into groups for analysis (e.g., underweight, normal, overweight, obese).  Histograms were then used to illustrate the BMI distribution for individuals with and without depressive disorders, and a Chi-Square test was used to evaluate the relationship between BMI categories and depressive disorders.  The Chi-Square statistic and p-value determine the significance of the observed relationship.  
 The analysis identifies significant patterns and relationships between BMI categories and the prevalence of depressive disorders.  Key insights are derived from statistical and visual evidence provided in the notebook.
+<img width="402" alt="Picture8" src="https://github.com/user-attachments/assets/f648bdb3-b4a3-4fda-8411-09e9ee39b233" />
+<img width="431" alt="Picture1" src="https://github.com/user-attachments/assets/b07c27b9-ec70-49d7-8e94-6c9167aceb01" />
+<img width="360" alt="Picture4" src="https://github.com/user-attachments/assets/5ce8d910-ecc1-4a55-b00e-3d0501555bfc" />
+<img width="502" alt="Picture9" src="https://github.com/user-attachments/assets/c80e21b6-3287-4f0a-8e6f-a3ae650c3589" />
+<img width="329" alt="Picture6" src="https://github.com/user-attachments/assets/e6476974-bcbe-40cb-a09f-04c25b9afbea" />
+<img width="329" alt="Picture5" src="https://github.com/user-attachments/assets/0172d6a6-12fe-4638-b2c4-63915f79fbdb" />
+
+
+
+
+
+
