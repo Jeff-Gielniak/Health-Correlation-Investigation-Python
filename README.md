@@ -1,4 +1,4 @@
-# project1
+# Health Correlation Investigation
 Authors: Hussain Gardezi, Andy Jobe, Christian Ramos, Jeff Gielniak
 Date: 2024-01-23
 
